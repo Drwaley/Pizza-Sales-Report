@@ -111,7 +111,7 @@ _Repeat the same steps for Days and Quarters_
 
 
 
-![](mon.name.png)
+![](Month.png)
 
 
 
