@@ -60,9 +60,14 @@ For Sales:
 `Sales = orders_details[price]*orders_details[Quantity]`    Then, the format was changed to currency in Dollars($). Preview the image below
 
 
+
+
 Before                   |      After
 :-----------------------:|:--------------------------:
 ![](OD_before.png)       |  ![](OD_After.png) 
+
+
+
 
 In the oders table , three columns was provided; **order id column, Date column, and Time column**. To improve our analysis there is a need to dreived columns for the following; 
 
@@ -70,6 +75,14 @@ Months and Month Number,
 Days and Days Number
 Quarter and Quarter Number
 Hours.
+
+
+
+
+Before                   |      After
+:-----------------------:|:--------------------------:
+![](orders_before.png)       |  ![](orders_After.png) 
+
 
 
 For example, Month name and Month Number was created from Date column in the power query editor.
@@ -96,7 +109,11 @@ For Month Number
 
 _Repeat the same steps for Days and Quarters_
 
-Image
+
+
+![](mon.name.png)
+
+
 
 
 **Hours column is derived from Time Column**.
@@ -110,7 +127,11 @@ Image
 4. Select Hour
 5. Select Hour
 
-Image
+
+ 
+ ![](Hours.png)
+
+
 
 
 
@@ -119,7 +140,7 @@ Image
 The model is a star schema. There are three (3) dimension tables named Orders, Pizza_type, and Pizzas and one (1) fact table named Order_details. The dimension tables are all joined to the fact table in a one-to-many relationship
 
 
-Image
+![](Model.png)
 
 
 
