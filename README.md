@@ -1,7 +1,7 @@
 # Pizza-Sales-Report
 
 
-#Introduction
+# Introduction
 
 This is a sales report about a particular Pizza business in 2015. This report dived deeper into understanding the overall sales trend of the business and predicted the sales trends for the subsequent years. The report explained the seasonality of the sales, How many customers are gained per day,  the pizza’s sales performance, How much money was made monthly, and peak hours for pizza sales. Power Query Editor for PowerBi was used to complete the process.
 
@@ -81,7 +81,9 @@ For example, Month name and Month Number was created from Date column in the pow
 4. Select Month
 5. Select Name of Month
 
+
 For Month Number
+
 
 1. Duplicate teh Date column
 2. Right click on the duplicated column
@@ -94,11 +96,12 @@ _Repeat the same steps for Days and Quarters_
 Image
 
 
-## Hours column is derived from Time Column.
+**Hours column is derived from Time Column**.
+
 
 **STEPS**
 
-1. Duplicate teh Time column
+1. Duplicate the Time column
 2. Right Click on the Duplicated column
 3. Select Transform
 4. Select Hour
