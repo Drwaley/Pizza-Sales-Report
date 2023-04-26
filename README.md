@@ -31,7 +31,7 @@ This is a sales report about a particular Pizza business in 2015. This report di
 
 The Pizza dataset contains three (3)dimensional Tables ( Orders, PizzaType, and Pizzas), and one (1) fact (Order_details) Table. The order_ details contain 48,620 rows, the Orders Table has 21,350 rows, Pizza_types 32 rows, and Pizzas 96 rows. Including the date and time of each order and the pizzas served, with additional details on the type, size, category, quantity, price, and ingredients.
  
-The data set was sourced from [https://www.mavenanalytics.io](Maven Analytics).
+The data set was sourced from [www.mavenanalytics.io]( Maven Analytics)
 
 
 
