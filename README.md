@@ -109,6 +109,7 @@ For Month Number
 
 _Repeat the same steps for Days and Quarters_
 
+preview the Image below 👇
 
 
 ![](Month.png)
@@ -128,8 +129,11 @@ _Repeat the same steps for Days and Quarters_
 5. Select Hour
 
 
+Preview the image below 👇
  
  ![](Hours.png)
+ 
+ 
 
 
 
@@ -138,6 +142,7 @@ _Repeat the same steps for Days and Quarters_
 # Data Modelling
 
 The model is a star schema. There are three (3) dimension tables named Orders, Pizza_type, and Pizzas and one (1) fact table named Order_details. The dimension tables are all joined to the fact table in a one-to-many relationship
+
 
 
 ![](Model.png)
