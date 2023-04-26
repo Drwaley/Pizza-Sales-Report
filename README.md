@@ -59,7 +59,10 @@ For Sales:
 
 `Sales = orders_details[price]*orders_details[Quantity]`    Then, the format was changed to currency in Dollars($). Preview the image below
 
-Before AND AFTER
+
+Before                   |      After
+:-----------------------:|:--------------------------:
+![](OD_before.png)       |  ![](OD_After.png) 
 
 In the oders table , three columns was provided; **order id column, Date column, and Time column**. To improve our analysis there is a need to dreived columns for the following; 
 
