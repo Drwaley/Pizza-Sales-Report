@@ -1,6 +1,10 @@
 # Pizza-Sales-Report
 
 
+<img src = "https://github.com/Drwaley/Pizza-Sales-Report/blob/main/pizzaintro.png" width = "1780" height = "500">
+
+
+
 # Introduction
 
 This is a sales report about a particular Pizza business in 2015. This report dived deeper into understanding the overall sales trend of the business and predicted the sales trends for the subsequent years. The report explained the seasonality of the sales, How many customers are gained per day,  the pizza’s sales performance, How much money was made monthly, and peak hours for pizza sales. Power Query Editor for PowerBi was used to complete the process.
