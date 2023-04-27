@@ -197,9 +197,9 @@ The sales page explains the sales trend of the business and how much money was m
 
 - Organize a **local games contest** to attract more customers to the store on Sunday.
 
-_ Introduce more variety of sizes for the Brie Carre. Also, run a promotional campaign Ads using the medicinal benefits of the ingredient as USP.
+- Introduce more variety of sizes for the Brie Carre. Also, run a promotional campaign Ads using the medicinal benefits of the ingredient as USP.
 
-![](https://github.com/Drwaley/Fifa2021--Data--Cleaning-Task/blob/main/Thank%20you.png)
+
 
 
 
