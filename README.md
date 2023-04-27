@@ -161,8 +161,9 @@ The sales page explains the sales trend of the business and how much money was m
 
 ## Customer Evaluation Page
 
-- The customer evaluation page dive deeper to understand  how many customer do they get per day
-- Which Day of the week has the highest and the least customer's orders
+- The customer evaluation page dive deeper into understanding  how many customer do they get per day?
+- Which Day of the week has the highest and the least customer's orders?
+- what Hours of the days has the peak sales?
 
 ![](cos.png)
 
@@ -172,6 +173,7 @@ The sales page explains the sales trend of the business and how much money was m
 - This page shows the best performing and the leat performing Pizza
 - Answer which Pizza should be takenn off Menu 
 - Why consumers purchase certain Pizza sizes and ingredient type
+- The Pizza sales by category
 
 
 ![](pizza.png)
@@ -198,6 +200,8 @@ The sales page explains the sales trend of the business and how much money was m
 - Organize a **local games contest** to attract more customers to the store on Sunday.
 
 - Introduce more variety of sizes for the Brie Carre. Also, run a promotional campaign Ads using the medicinal benefits of the ingredient as USP.
+
+![](https://github.com/Drwaley/Pizza-Sales-Report/blob/main/Thank%20you.png)
 
 
 
