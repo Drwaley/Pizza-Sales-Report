@@ -98,10 +98,10 @@ For example, Month name and Month Number was created from Date column in the pow
 5. Select Name of Month
 
 
-For Month Number
+**For Month Number**
 
 
-1. Duplicate teh Date column
+1. Duplicate the Date column
 2. Right click on the duplicated column
 3. Select Transform
 4. Select Month
@@ -187,7 +187,7 @@ The sales page explains the sales trend of the business and how much money was m
 - Expansion of the business will reduce the unemployment rate in the country as more skilled hands will be needed for smooth operation, efficiency, and continuity of     the business.
 - More cashflow will be generated when the business size grown.
 
-# Recommendation 
+# Recommendations 📙 
 
 - Promotional campaigns should be targeted towards the second half of the year. Emphasis should be on September, October, and December. It is pertinent to investigate   and fix why sales decline in **ember months, December especially**. 
 
