@@ -69,7 +69,7 @@ Before                   |      After
 
 
 
-In the oders table , three columns was provided; **order id column, Date column, and Time column**. To improve our analysis there is a need to dreived columns for the following; 
+In the oders table , three columns was provided; **order id column, Date column, and Time column**. To improve our analysis there is a need to derived columns for the following; 
 
 Months and Month Number,
 Days and Days Number
@@ -146,6 +146,67 @@ The model is a star schema. There are three (3) dimension tables named Orders, P
 
 
 ![](Model.png)
+
+
+
+# Analysis and Visualization
+
+## The Sales Evaluation
+
+The sales page explains the sales trend of the business and how much money was made that year.
+
+
+![](sales.png)
+
+
+## Customer Evaluation Page
+
+- The customer evaluation page dive deeper to understand  how many customer do they get per day
+- Which Day of the week has the highest and the least customer's orders
+
+![](cos.png)
+
+
+## Pizza Performance Evaluation
+
+- This page shows the best performing and the leat performing Pizza
+- Answer which Pizza should be takenn off Menu 
+- Why consumers purchase certain Pizza sizes and ingredient type
+
+
+![](pizza.png)
+
+
+
+# Conclusion 😎
+
+- The overall Buisness trend looks promising in the subsequent years. 
+- Developing this business into franchise will attract more investors and increase the popularity of the brand
+- Expansion of the business will reduce the unemployment rate in the country as more skilled hands will be needed for smooth operation, efficiency, and continuity of     the business.
+- More cashflow will be generated when the business size grown.
+
+# Recommendation 
+
+- Promotional campaigns should be targeted towards the second half of the year. Emphasis should be on September, October, and December. It is pertinent to investigate   and fix why sales decline in **ember months, December especially**. 
+
+- The Staff should be compensated during the peak months of sales.
+
+- More staffs should be on duty on Friday to ensure fast customer delivery and efficient operations.
+
+- Offer discounted price for the most ordered pizza type and sizes in order to encourage more consumers to consider their favorite Pizza instead of eating out or         cooking on Sundays.
+
+- Organize a **local games contest** to attract more customers to the store on Sunday.
+
+_ Introduce more variety of sizes for the Brie Carre. Also, run a promotional campaign Ads using the medicinal benefits of the ingredient as USP.
+
+![](https://github.com/Drwaley/Fifa2021--Data--Cleaning-Task/blob/main/Thank%20you.png)
+
+
+
+
+
+
+
 
 
 
